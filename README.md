@@ -74,7 +74,7 @@
 </details>
 
 <details>
-<summary><b>Deploy to Heroku</b></summary>
+<summary><b>Deploy to [Heroku</b></summary>](https://github.com/MrMKN/PROFESSOR-BOT)
 
 <a href="https://youtu.be/uv0WHxwHwfo"><img src="https://img.shields.io/badge/watch%20Heroku%20Tutorial-red.svg?logo=Youtube"></a>                
 
